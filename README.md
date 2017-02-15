@@ -10,17 +10,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Common Commands used in a helpdesk environment
 
-# Header 1
-## Header 2
-### Header 3
-
 - gpupdate /force
 - gpresult /R
-- ipconfig 
+- ipconfig (all,release,renew,flushdns)
+- sfc /scannow
+- sigverif
+- driverquery
+- driverquery -v
+- driverquery -si
+- nslookup hosthere
+- ping ipaddresshere
+- pathping ipaddresshere
 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
