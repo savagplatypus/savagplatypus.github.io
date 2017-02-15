@@ -21,7 +21,12 @@ Common Commands used in a helpdesk environment
 - ping ipaddresshere
 - pathping ipaddresshere
 
-Common Developer problems and how to resolve them
+```
+
+### Common Problems when working with developers and how to resolve them!
+
+```markdown
+
 
 PROBLEM: If for whatever reason you are waiting for a msdn or 
 visual studio license to issue and the trial runs out you can
@@ -40,17 +45,4 @@ having to uninstall/reinstall visual studio(x)
 - This is the registry link for in this case Visual Studio 2013s profile location
 hkey_current_user\software\Microsoft\VSCommon\12.0\clientservices\tokenstorage
 \visualstudio\ideuser
-
-
-
-
-
 ```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/savagplatypus/savagplatypus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
