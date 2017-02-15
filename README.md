@@ -1,11 +1,10 @@
 ## Hows it going!
 
-First just wanted to say thanks for stopping by!
-secondly, 
+First just wanted to say thanks for stopping by! I hope you enjoy your time in my repo!
 
-### Markdown
+### Helpdesk/Technical Support Command Library
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A quick access view for any commands you may need
 
 ```markdown
 Common Commands used in a helpdesk environment
