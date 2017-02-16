@@ -1,8 +1,3 @@
-
-## Links!
-<a href=http://www.echoecho.com/htmllinks01.htm /a>
-About me
-
 ## Hows it going!
 
 First just wanted to say thanks for stopping by! I hope you enjoy your time in my repo!
