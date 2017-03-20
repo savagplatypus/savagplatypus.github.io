@@ -2,6 +2,18 @@
 
 First just wanted to say thanks for stopping by! I hope you enjoy your time in my repo!
 
+### HELP!!!! My Printer stopped letting me connect via. Webservice?
+
+Have no fear using this short guide here are some common ways to fix this issue.
+
+```markdown
+DNS Server issue
+
+verify that this is not the issue. 99% of the time 
+being unable to connect to the web service associated with
+your printer is because of DNS issues
+
+
 ### Helpdesk/Technical Support Command Library
 
 A quick access view for any commands you may need
