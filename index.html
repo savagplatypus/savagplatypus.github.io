@@ -1,39 +1,72 @@
-<html>
+<!doctype html>
+<html lang="en-US">
 <head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body, html {
-    height: 100%;
-}
-
-.parallax {
-    /* The image used */
-    background-image: url('Images/savagplatypussite.png');
-
-    /* Full height */
-    height: 100%; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-</style>
+<title>Light Theme</title>
+<link href="css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 <body>
-
-<div class="parallax"></div>
-
-<div style="height:100px;background-color:white;font-size:14px">
-This is just a test example.
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header> <a href="">
+    <h4 class="logo">savagplatypus.github.io</h4>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#hero">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li> <a href="#contact">CONTACT</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Hero Section -->
+  <section class="hero" id="hero">
+	  <a href="https://imgur.com/yIovEGE"><img src="https://i.imgur.com/yIovEGE.png" width="1387" title="source: imgur.com" /></a>
+  </section>
+  <!-- About Section -->
+  <section class="about" id="about">
+    <h2 class="hidden">About</h2>
+    
+</section>
+  <!-- Stats Gallery Section -->
+  <!-- Parallax Section -->
+  <section class="banner">
+    <h2 class="parallax">Hello my name is Ethan Desmond</h2>
+    <p class="parallax_description">I am a Support Engineer that has worked in a variety of environments and always attempts to automate a number of the menial tasks that may come associated with any given environment. I Strive to bring quality to everything I touch.</p>
+  </section>
+  <!-- More Info Section -->
+  <footer>
+    <article class="footer_column"> <a href="https://imgur.com/1FgCI9w"><img src="https://i.imgur.com/1FgCI9w.png" title="source: imgur.com" /></a>
+      <p>The scripting center is a great place to grab some pre-written scripts                 </p>
+		<button>Click Here for scripts</button>
+    </article>
+    <article class="footer_column">
+      <a href="https://imgur.com/iDCp53i"><img src="https://i.imgur.com/iDCp53i.png" title="source: imgur.com" /></a>
+      <p>A great place to go to get some great troubleshooting tips.</p>
+		<button>Click Here for tips</button>
+    </article>
+  </footer>
+  <!-- Footer Section -->
+  <section class="footer_banner" id="contact">
+    <h2 class="hidden">Footer Banner Section </h2>
+    <p class="hero_header">Thank you for visiting!!</p>
+	  <p class="hero_header">Come back for updates</p>
+  </section>
+  <!-- Copyrights Section -->
+  <div class="copyright">&copy;2018 - <strong>savagplatypus.github.io</strong></div>
 </div>
-
-    <div style="height:50px;background-color:white;font-size:14px">
-different div sizes
-</div>
-
-<div class="parallax"></div>
-
+<!-- Main Container Ends -->
 </body>
 </html>
